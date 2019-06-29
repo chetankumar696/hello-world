@@ -1,2 +1,3 @@
 # hello-world
 1st GIT
+This my 1st GIT. This was wow...
